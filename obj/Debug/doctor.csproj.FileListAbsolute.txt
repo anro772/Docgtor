@@ -1,0 +1,16 @@
+C:\C# WAP\doctor\doctor\bin\Debug\doctor.exe.config
+C:\C# WAP\doctor\doctor\bin\Debug\doctor.exe
+C:\C# WAP\doctor\doctor\bin\Debug\doctor.pdb
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.csproj.AssemblyReference.cache
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.csproj.SuggestedBindingRedirects.cache
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.AddForm.resources
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.Form1.resources
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.Properties.Resources.resources
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.csproj.GenerateResource.cache
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.csproj.CoreCompileInputs.cache
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.exe
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.pdb
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.EditForm.resources
+C:\C# WAP\doctor\doctor\bin\Debug\System.Data.SQLite.dll
+C:\C# WAP\doctor\doctor\bin\Debug\System.Data.SQLite.xml
+C:\C# WAP\doctor\doctor\obj\Debug\doctor.csproj.CopyComplete
